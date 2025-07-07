@@ -1,6 +1,7 @@
 #  Hi folks — This is Maimoona Saeed
 
  Comp Sci graduate |  Aspiring Computational Neuroscientist |  Ecosystem Builder
+ 
  I explore where neuroscience, AI, and product thinking intersect.
 
 ---
