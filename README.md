@@ -1,7 +1,27 @@
-- 👋 Greetings techie people, This is Maimoona Saeed- A self-proclaimed writer & a CS sophomore
-- 👀 As a student in tech with a pre-medical background - I aspire to be a computational neuroscientist, connecting the two fields.
-- 🌱 Currently, I am too hooked at deep learning and stuff.
-- 💞️ I’m looking to collaborate with people with similar interests- could be anyone from CS, bioinformatics or neuroscience. Would also love to get my hands on research.
+# 👋 Hello there — I’m Maimoona Saeed
+
+🎓 Comp Sci graduate | 🧠 Aspiring Computational Neuroscientist | 💻 Community-Driven Technologist  
+🌱 I explore where neuroscience, AI, and product thinking intersect.
+
+---
+
+## 🛠 What I’m Into
+
+- 🧪 Building AI tools with real-world impact  
+- 🧠 Learning about brain-inspired computing and deep learning  
+- 🧭 Leading tech communities 
+- ✍️ Writing, researching, and translating complex ideas into actionable content
+
+---
+
+## 🤝 I’m Open To
+
+- Collaborating on technical/product projects (especially in AI, data science, or neurotech)  
+- Contributing to open-source or student-led research  
+- Chatting about PM, AI, or event-led growth strategies
+
+---
+
 - 📫 You can e-mail me anytime at maemunahsaeed@gmail.com
 
 <!---
