@@ -1,4 +1,4 @@
-# 👋 Hello there — I’m Maimoona Saeed
+# 👋 Hi folks — This is Maimoona Saeed
 
 🎓 Comp Sci graduate | 🧠 Aspiring Computational Neuroscientist | 💻 Community-Driven Technologist  
 🌱 I explore where neuroscience, AI, and product thinking intersect.
